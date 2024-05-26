@@ -19,6 +19,8 @@ bool isPrime(int n)
             return false;
     }
     return true;
+return true;
+
 }
  
 // Driver code
@@ -35,4 +37,5 @@ int main()
         }
     }
     return 0;
+return 0;
 }
